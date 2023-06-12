@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitaliySaburdo&theme=algolia)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitaliySaburdo&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitaliySaburdo&theme=algolia)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitaliySaburdo&theme=algolia)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitaliySaburdo&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitaliySaburdo&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitaliySaburdo&theme=algolia&utcOffset=8)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![CodeWars](https://www.codewars.com/users/VitaliySaburdo/badges/large)](https://www.codewars.com/users/VitaliySaburdo/badges/large)
 ---
