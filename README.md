@@ -29,17 +29,7 @@ Here are some ideas to get you started:
   # CodeWars Generator
 
 [![CodeWars](https://www.codewars.com/users/VitaliySaburdo/badges/large)](https://www.codewars.com/users/VitaliySaburdo/badges/large)
-
-This repository contains a collection of CodeWars generator solutions. Each solution is implemented in [programming_language], providing a ready-to-use generator for specific CodeWars katas.
-
-## Table of Contents
-
-- [Description](#description)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-  
+ 
 ![](https://github-readme-stats.vercel.app/api?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitaliySaburdo&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
