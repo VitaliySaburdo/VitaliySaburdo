@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
  
-![](https://github-readme-stats.vercel.app/api?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=default)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitaliySaburdo&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![CodeWars](https://www.codewars.com/users/VitaliySaburdo/badges/large)](https://www.codewars.com/users/VitaliySaburdo/badges/large)
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22bbdd90a24d6a81279262da262a00b2f8c364f363728648127720ce7349b8a0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d68616265722d766961636865736c6176267468656d653d6769746875625f6461726b"><img src="https://camo.githubusercontent.com/22bbdd90a24d6a81279262da262a00b2f8c364f363728648127720ce7349b8a0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d68616265722d766961636865736c6176267468656d653d6769746875625f6461726b" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitaliySaburdo&amp;theme=github_dark" style="max-width: 100%;"></a>
