@@ -31,10 +31,10 @@ Here are some ideas to get you started:
  
 ![](https://github-readme-stats.vercel.app/api?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitaliySaburdo&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySaburdo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![CodeWars](https://www.codewars.com/users/VitaliySaburdo/badges/large)](https://www.codewars.com/users/VitaliySaburdo/badges/large)
 ---
 [![](https://visitcount.itsvg.in/api?id=VitaliySaburdo&icon=0&color=1)](https://visitcount.itsvg.in)
-[![CodeWars](https://www.codewars.com/users/VitaliySaburdo/badges/large)](https://www.codewars.com/users/VitaliySaburdo/badges/large)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
