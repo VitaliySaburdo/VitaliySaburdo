@@ -28,8 +28,9 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
 
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia)<br/>
+ <div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia)
+ </div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitaliySaburdo&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitaliySaburdo&theme=algolia)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitaliySaburdo&theme=algolia)
