@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia))<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliySaburdo&theme=algolia)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitaliySaburdo&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitaliySaburdo&theme=algolia)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitaliySaburdo&theme=algolia)
