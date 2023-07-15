@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Vitaliy Saburdo I'm a Full stack developer.
+### Hi there 👋 my name is Vitaliy Saburdo I'm a Full Stack developer.
 
 <!--
 **VitaliySaburdo/VitaliySaburdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
